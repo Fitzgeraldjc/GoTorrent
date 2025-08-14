@@ -1,6 +1,6 @@
 # GoTorrent
 
-A lightweight BitTorrent client written in Go that supports both traditional torrent files and magnet links.
+A lightweight BitTorrent client written in Go that supports both traditional torrent files and magnet links based on the tutorial by Jesse Li found here: https://blog.jse.li/posts/torrent/
 
 ## Features
 
